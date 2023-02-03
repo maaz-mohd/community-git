@@ -1,1 +1,5 @@
+Hi,
+Folks, here's goes my first git commit file
+Have a look through it.
 
+Enjoy, have a nice day.
